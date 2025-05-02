@@ -56,7 +56,7 @@ Check out the live demo: [Notes App](https://react-notes-liart.vercel.app/)
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/notes-app.git
+   git clone https://github.com/Developerr86/CS50-Final-Project.git
    cd notes-app
    ```
 
